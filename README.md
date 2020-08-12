@@ -1,4 +1,4 @@
 # inertia_calc_tool_GUI
 
-[計算式を参考にしたサイト(wikipedia)](https://en.wikipedia.org/wiki/List_of_moments_of_inertia#List_of_3D_inertia_tensors)
+[計算式を参考にしたサイト(wikipedia)](https://en.wikipedia.org/wiki/List_of_moments_of_inertia#List_of_3D_inertia_tensors)   
 pysimpleguiを使って製作してますので必要な方はpipしてください
